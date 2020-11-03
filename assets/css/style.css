@@ -2503,3 +2503,14 @@ footer.site-footer {
     right: 20px !important; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/* Custom --- Alex */
+.menu-title {
+  transition: all .5s ease;
+}
+
+.menu-title:hover {
+  margin-left: 1.5rem;
+}
